@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\bin\Debug\net6.0\Taska_3.exe
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\bin\Debug\net6.0\Taska_3.deps.json
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\bin\Debug\net6.0\Taska_3.runtimeconfig.json
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\bin\Debug\net6.0\Taska_3.dll
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\bin\Debug\net6.0\ref\Taska_3.dll
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\bin\Debug\net6.0\Taska_3.pdb
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.GlobalUsings.g.cs
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.dll
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\ref\Taska_3.dll
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.pdb
+C:\Users\admin\Desktop\Tasks_2023_07_02\Taska_3\obj\Debug\net6.0\Taska_3.genruntimeconfig.cache
